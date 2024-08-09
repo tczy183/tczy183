@@ -14,6 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Lorin-github](https://github-readme-stats.vercel.app/api?username=tczy183)](https://github.com/tczy183/github-readme-stats)
-[![Lorin-github](https://github-profile-trophy.vercel.app/?username=tczy183)](https://github.com/tczy183/github-profile-trophy)
+
+
+📈 **My GitHub Stats:**
+
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tczy183&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tczy183&show_icons=true&hide_border=true&layout=compact&langs_count=8&hide=javascript"/>
+</p>
 
